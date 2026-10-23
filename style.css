@@ -138,7 +138,7 @@ header.scrolled {
   align-items: center;
 }
 
-.logo h1 {
+/* .logo h1 {
   position: relative;
   color: var(--branco);
   font-size: 27px;
@@ -146,6 +146,10 @@ header.scrolled {
   letter-spacing: 3px;
   line-height: 1;
   transition: var(--transicao);
+} */
+
+.logo img {
+  width: 12em;
 }
 
 header.scrolled .logo h1 {
